@@ -51,9 +51,7 @@
 		AA6521ED2CB4F6D000B56E01 /* DenClassPBXConfilct2 */ = {
 			isa = PBXGroup;
 			children = (
-				AA6521EE2CB4F6D000B56E01 /* DenClassPBXConfilct2App.swift */,
-				AA6521F02CB4F6D000B56E01 /* ContentView.swift */,
-				AA6521F22CB4F6D100B56E01 /* Assets.xcassets */,
+				AA6521FD2CB4FA1600B56E01 /* Bran */,
 				AA6521F42CB4F6D100B56E01 /* Preview Content */,
 			);
 			path = DenClassPBXConfilct2;
@@ -65,6 +63,16 @@
 				AA6521F52CB4F6D100B56E01 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		AA6521FD2CB4FA1600B56E01 /* Bran */ = {
+			isa = PBXGroup;
+			children = (
+				AA6521EE2CB4F6D000B56E01 /* DenClassPBXConfilct2App.swift */,
+				AA6521F02CB4F6D000B56E01 /* ContentView.swift */,
+				AA6521F22CB4F6D100B56E01 /* Assets.xcassets */,
+			);
+			path = Bran;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
