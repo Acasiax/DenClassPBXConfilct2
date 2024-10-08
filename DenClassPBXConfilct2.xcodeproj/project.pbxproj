@@ -65,6 +65,7 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+
 		AA6521FD2CB4FA1600B56E01 /* Bran */ = {
 			isa = PBXGroup;
 			children = (
@@ -72,6 +73,7 @@
 				AA6521F02CB4F6D000B56E01 /* ContentView.swift */,
 				AA6521F22CB4F6D100B56E01 /* Assets.xcassets */,
 			);
+
 			path = Bran;
 			sourceTree = "<group>";
 		};
